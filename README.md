@@ -1,2 +1,2 @@
-# theme-1
-Tema Nuvem Shop - Modelo1
+# ns-theme-1 - Fresh Start
+Tema Nuvem Shop - Tema Fresh Start
